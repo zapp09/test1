@@ -1,0 +1,1 @@
+go loft /n go right
